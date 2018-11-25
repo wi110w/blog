@@ -9,3 +9,6 @@ This is the blog for the University of Awesomeness Library that will serve to sh
 3. The blog must provide library's user with a forum for learning about news, events and resources.
 4. The blog must be cross-platform.
 5. The blog must support plugins/module framework.
+6. The blog must be cross-browser.
+7. The blog must support mobile platform, such as Android and iOS
+8. The blog must have the legacy support.
