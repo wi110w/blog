@@ -11,4 +11,4 @@ This is the blog for the University of Awesomeness Library that will serve to sh
 5. The blog must support plugins/module framework.
 6. The blog must support Firefox 22+, Chrome 25+, Opera 35+, Edge 38+, Safari 5+, IE 10+.
 7. The blog must support mobile platform, such as Android 4.0+ and iOS 10+
-8. The blog must have the legacy support.
+8. The blog must support the current system for importing existing post.
