@@ -16,3 +16,4 @@ This is the blog for the University of Awesomeness Library that will serve to sh
 10. The blog must support authorization via Google, Facebook or Twitter account.
 11. The blog must have user registration and have mandatory fields such as name, surname, e-mail, username, password.
 12. The password must have letters in lower- and uppercase, digits and wildcard characters ("* / _ #" etc).
+13. After registration the system must send the e-mail confirmation to user.
