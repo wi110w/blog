@@ -7,8 +7,8 @@ This is the blog for the University of Awesomeness Library that will serve to sh
 1. The blog must show library news, events and resources.
 2. The blog must provide library's user with the ability of commenting on posts.
 3. The blog must provide library's user with a forum for learning about news, events and resources.
-4. The blog must be cross-platform.
+4. The blog must support Windows XP and newer, MacOS X and Linux.
 5. The blog must support plugins/module framework.
-6. The blog must be cross-browser.
-7. The blog must support mobile platform, such as Android and iOS
+6. The blog must support Firefox 22+, Chrome 25+, Opera 35+, Edge 38+, Safari 5+, IE 10+.
+7. The blog must support mobile platform, such as Android 4.0+ and iOS 10+
 8. The blog must have the legacy support.
